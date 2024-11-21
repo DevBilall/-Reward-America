@@ -1,4 +1,4 @@
-# -Reward-America
+# Reward-America
 Reward America is a platform connecting users with top brand rewards and promotions. Featuring a user-friendly directory, personalized offers, and reviews, it simplifies discovering and redeeming rewards, fostering brand loyalty and engagement.
 # Reward America
 Reward America is a dynamic platform designed to connect users with valuable rewards and promotions from top brands. Built on the *Brilliant Directories* platform, it features an intuitive directory, personalized offers, and user reviews, empowering consumers to discover and redeem rewards effortlessly.
@@ -51,8 +51,8 @@ Are you looking to build or enhance your own **Brilliant Directory** platform? L
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/dev-bilal)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:info.devbilal@gmail.com)
 
 ---
 
